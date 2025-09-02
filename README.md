@@ -115,8 +115,3 @@ MIT License – free to use and modify.
 
 ---
 
-👉 Just copy this content into a file named `README.md` in your repo folder.  
-After pushing to GitHub, your project will look **professional & ready-to-use** ✅  
-
-Do you also want me to make a **`setup.sh` script** that automates all the `qm` steps (so users only run `bash setup.sh`)?
-```
