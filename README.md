@@ -109,9 +109,5 @@ If you find issues or want to improve automation (like adding a full `setup.sh`)
 
 ## 📜 License
 
-MIT License – free to use and modify.
-
-```
-
----
+MIT License © 2025 Shibnath Das
 
